@@ -1,4 +1,4 @@
-# embedded-p5-capstone-controller  
+# embedded-UART-PID Controller
 
 ## Overview  
 This capstone project implements a configurable embedded controller with PID (proportional–integral–derivative) control, a command-line interface over UART, modular architecture, and testing infrastructure. The goal is to demonstrate proficiency in system design, real-time control, hardware–software integration, and continuous integration (CI) for embedded systems.  
